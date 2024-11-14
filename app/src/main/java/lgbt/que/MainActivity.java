@@ -1,4 +1,4 @@
-package com.myexampoint.webtoapp;
+package lgbt.que;
 
 
 import android.content.DialogInterface;

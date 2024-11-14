@@ -2,6 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 27
+    namespace 'lgbt.que'
     defaultConfig {
         applicationId "lgbt.que"
         minSdkVersion 15
