@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     String ShowOrHideWebViewInitialUse = "show";
     private WebView webview ;
     private ProgressBar spinner;
-    String myurl = "https://que.lgbt/"; //Change this  to your website hostname
+    String myurl = "https://app.furconnect.org/"; //Change this  to your website hostname
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
